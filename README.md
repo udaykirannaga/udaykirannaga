@@ -32,3 +32,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udaykirannaga&show_icons=true&locale=en" alt="udaykirannaga" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udaykirannaga&" alt="udaykirannaga" /></p>
+<p align="left">Hello World!!</p>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/udaykirannaga/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/udaykirannaga/udaykirannaga/output/snake.svg" alt="Snake animation" />
+
+###
