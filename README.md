@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@nagaudaykiran" target="blank"><img src="https://img.shields.io/twitter/follow/@nagaudaykiran?logo=twitter&style=for-the-badge" alt="@nagaudaykiran" /></a> </p>
 
-- 🔭 I’m currently working on **Cookies project**
+- 🔭 I’m currently working on **Problem Solving**
 
-- 🌱 I’m currently learning **Bootstrap, React,**
+- 🌱 I’m currently learning **Python, React,**
 
 - 💬 Ask me about **HTML,CSS, JavaScript, React, Bootstrap.**
 
