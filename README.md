@@ -1,5 +1,5 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif)]
-<h1 align="center">Hi 👋, I'm Uday kiran</h1>
+<h1 align="center">Hi 👋, I'm Uday kiran Naga</h1>
 <h3 align="center">A passionate Full Stack developer from Hyderabad</h3>
 <img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"
 
